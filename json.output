@@ -1,0 +1,8 @@
+{
+  "action": "process_message",
+  "message_id": "AAMkADk1NDk2ZTZkLTRhMWYtNGY3My1hMWM1LWU1MjU3ODJjYjhkZgBGAAAAAADWU5ANH0peSKi8QfLlCdvgBwBsur4Y_RNGRISh-0tesDknAAAAAAEMAABsur4Y_RNGRISh-0tesDknAAATN5S8AAA=",
+  "attachment_types": {
+    "SOA Riyadh Cables.pdf": "statement",
+    "INV26-0175.pdf": "po_invoice"
+  }
+}
